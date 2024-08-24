@@ -37,13 +37,13 @@ order: 4
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,selenium,sklearn,sqlite,raspberrypi,pytorch,postman,postgres,php,nginx,mysql,linux,github,flask,figma,django,docker,c,cpp,blender,bash,arduino&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,selenium,sklearn,sqlite,raspberrypi,pytorch,postman,postgres,php,nginx,mysql,linux,github,flask,figma,django,docker,c,cpp,blender,bash,arduino&perline=8" alt="skills" />
   </a>
 </div>
 
 <div align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Tejax-v2/count.svg" />
+  <img src="https://profile-counter.glitch.me/Tejax-v2/count.svg" alt="visitors" />
 </div>
 
 <!-- Anime Gifs or Images (optional) -->
