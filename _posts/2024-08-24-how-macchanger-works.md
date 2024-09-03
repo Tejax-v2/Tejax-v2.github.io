@@ -1,6 +1,6 @@
 ---
 title: "Magic of Macchanger: How MAC Address is changed"
-date: 2024-09-24 +0530
+date: 2024-08-24 +0530
 categories: [How things work]
 tags: [hardware,network] # TAG names should always be lowercase
 ---
