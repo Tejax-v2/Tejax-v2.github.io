@@ -13,7 +13,7 @@ This C program simulates the core components of the Enigma machine: three rotors
 
 ## The Code
 
-```C
+```c
 #include <stdio.h>
 #include <string.h>
 
